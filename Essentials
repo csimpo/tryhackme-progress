@@ -1,0 +1,46 @@
+Introduction chapter
+
+Initiate the vm and the attackbox, ssh to the vm that has windows running on it.
+
+
+Basic system information:
+
+set command to check the path from command line
+
+ver : windows version
+
+systeminfo : displays system info
+
+help -  Provides help information for a specific command
+
+cls: clears the command line
+
+Network troubleshooting:
+
+ipconfig : The terminal output below shows our IP address, subnet mask, and default gateway.
+
+ipconfig /all : Adds extra info for example DHCP is enabled or not
+
+tracert : Trace route, traces the network route traversed to reach the target.
+
+nslookup: It looks up a host or domain and returns its IP address.
+
+netstat : This command displays current network connections and listening ports. -a -b -o -n
+
+File and Disk management:
+
+cd: without parameters shows the current drive and directory
+
+dir : lists the child directories /a displays hidden and system files, /s displays files in the current directory and all subdirectories.
+
+mkdir : make directory
+
+rmdir : delte directory
+
+find the flag exercise: Dummy mistake I wasnt paying attention to the exact location, after staring at the blank screen I got the solution, I was trying to find the Treasuere folder within the users directory, but it was on a lower lvl.
+
+
+
+
+
+
