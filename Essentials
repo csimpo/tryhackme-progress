@@ -39,6 +39,16 @@ rmdir : delte directory
 
 find the flag exercise: Dummy mistake I wasnt paying attention to the exact location, after staring at the blank screen I got the solution, I was trying to find the Treasuere folder within the users directory, but it was on a lower level.
 
+Task and process mmanagement:
+
+tasklist: shows running tasks
+
+tasklist /FI "imagename eq name.exe" filters the exe you wanted to find
+
+taskkill/PID xxx terminates the process
+
+
+
 
 
 
